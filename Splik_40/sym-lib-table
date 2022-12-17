@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/deppy/OneDrive/Documents/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "xiao")(type "KiCad")(uri "C:/Users/deppy/Downloads/xiao-main/xiao-main/xiao.kicad_sym")(options "")(descr ""))
+  (lib (name "display")(type "KiCad")(uri "C:/Users/deppy/Downloads/kleeb-621f12d5722b86546e0b436f8f9925bab15d0f19/kleeb-621f12d5722b86546e0b436f8f9925bab15d0f19/display.kicad_sym")(options "")(descr ""))
+  (lib (name "ic")(type "KiCad")(uri "C:/Users/deppy/Downloads/kleeb-621f12d5722b86546e0b436f8f9925bab15d0f19/kleeb-621f12d5722b86546e0b436f8f9925bab15d0f19/ic.kicad_sym")(options "")(descr ""))
+  (lib (name "mcu")(type "KiCad")(uri "C:/Users/deppy/Downloads/kleeb-621f12d5722b86546e0b436f8f9925bab15d0f19/kleeb-621f12d5722b86546e0b436f8f9925bab15d0f19/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "misc")(type "KiCad")(uri "C:/Users/deppy/Downloads/kleeb-621f12d5722b86546e0b436f8f9925bab15d0f19/kleeb-621f12d5722b86546e0b436f8f9925bab15d0f19/misc.kicad_sym")(options "")(descr ""))
+  (lib (name "switch")(type "KiCad")(uri "C:/Users/deppy/Downloads/kleeb-621f12d5722b86546e0b436f8f9925bab15d0f19/kleeb-621f12d5722b86546e0b436f8f9925bab15d0f19/switch.kicad_sym")(options "")(descr ""))
+)
